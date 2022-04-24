@@ -3,9 +3,9 @@
     flex-direction: column;
     justify-content: space-between;
     background-color:white;
-    padding: 0.5rem;
     border-radius: 0.3rem;
     margin: 1rem 0;
+    white-space:pre-wrap;
 }
 .item1{
     display: flex;
@@ -13,4 +13,5 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    font-family: 'Times New Roman', Times, serif;
 }
