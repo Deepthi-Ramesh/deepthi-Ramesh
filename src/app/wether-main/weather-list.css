@@ -1,0 +1,14 @@
+section{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    position:fixed;
+    top: 32%;
+    left:35%;
+}
+.search-container{
+    height: 30px;
+}
+.list-container{
+    height: 50%;
+}

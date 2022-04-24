@@ -1,0 +1,8 @@
+<section>
+    <div class="search-container">
+        <weather-search></weather-search>
+    </div>
+    <div class="list-container">
+        <weather-item *ngFor ="let weatherItem of weatherItems" [item]="weatherItem"></weather-item>
+    </div>
+ </section>
