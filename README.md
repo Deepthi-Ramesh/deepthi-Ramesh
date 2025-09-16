@@ -1,6 +1,6 @@
 # Hi, I'm Deepthi Ramesh 👋
 
-I'm a driven **Full Stack Developer** specializing in the MERN stack (MongoDB/MySQL, Express.js, React.js, Node.js), with a proven track record in building scalable web applications.
+I'm a driven **Full Stack Developer** specializing in the MERN stack (MySQL, Express.js, React.js, Node.js), with a proven track record in building scalable web applications.
 
 Currently at **Accenture**, I optimize internal tools for efficiency and performance. Previously, I interned at **Talentstech** and was a **Smart India Hackathon 2022 Finalist**, leading a team to build a secure, role-based government welfare app.
 
