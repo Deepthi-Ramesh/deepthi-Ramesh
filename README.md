@@ -1,29 +1,28 @@
-# Weatherapp
+# Hi, I'm Deepthi Ramesh 👋
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+I'm a driven **Full Stack Developer** specializing in the MERN stack (MongoDB/MySQL, Express.js, React.js, Node.js), with a proven track record in building scalable web applications.
 
-## Development server
+Currently at **Accenture**, I optimize internal tools for efficiency and performance. Previously, I interned at **Talentstech** and was a **Smart India Hackathon 2022 Finalist**, leading a team to build a secure, role-based government welfare app.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+I've tackled **350+ LeetCode problems**, built projects like a Java-based student management system, and keep up with the latest in web and cloud tech.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 🔍 Open to Freelancing!
+I'm actively seeking **freelance web development projects**—especially in React.js, MERN stack, and related technologies.
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### 🛠️ Skills
+JavaScript, React.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB, HTML/CSS, Redux, REST APIs, Figma, GCP (learning)
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 📫 Contact Me
+- Email: deepthimr1411@gmail.com
+- LinkedIn: [Deepthi-LinkedIn](https://www.linkedin.com/in/deepthi-m-r-9205911b9/)
+- Portfolio: [My Portfolio](https://deepthimrportfolio.vercel.app/)
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-coded by deepthi 
+> ⚡ Let’s collaborate and build something impactful!
